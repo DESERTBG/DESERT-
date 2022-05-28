@@ -3,12 +3,12 @@
  "port": "24788",
  "name": "Bot!!!!!!!!!!",
  "password": "",
- "auto-night-skip": "false",
+ "auto-night-skip": "true",
  "prefix": "",
- "login-enabled": "false",
+ "login-enabled": "true",
  "register-cmd": "/login kartikopp kartikopp",
  "login-cmd": "/login kartikopp",
- "loginmsg": "Your any msg",
+ "loginmsg": "hello",
  "auto-reconnect": "true",
  "web": "true"  
 }
